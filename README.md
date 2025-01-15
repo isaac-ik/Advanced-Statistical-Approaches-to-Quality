@@ -32,7 +32,7 @@ Contents of the Repository
 
 -   **Dry Bean Classifiers.ipynb**: Jupyter notebook containing the implementation of the machine learning pipeline. It includes data preprocessing, dimensionality reduction, exploratory analysis, classification, and performance evaluation.
 -   **DryBeanDataset**: The folder containing the raw dataset.
--   **Dry_Bean_Dataset.xlsx**: A folder containing the clean dataset used for analysis.
+-   **Dry_Bean_Dataset.xlsx**: the dataset used for analysis.
 
 Key Techniques and Analysis
 ---------------------------
